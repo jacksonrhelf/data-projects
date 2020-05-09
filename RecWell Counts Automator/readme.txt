@@ -7,7 +7,7 @@ to create a faster way to do this for use by myself and others who may perform
 this task after I leave the university.
 
 My program contains three functions, one for each of the recreational facilities I am
-tasked with tracking. The function takes the name of the csv file, the number of days in
+tasked with tracking. Each function takes the name of the csv file, the number of days in
 the month, the name of the month, and the number of Fridays, Saturdays, and Sundays in 
 the month as our hours differ on those days. From this, it formats the csv file
 which I obtain from the company website into a DataFrame containing the formatted
